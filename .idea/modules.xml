@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Music_back.iml" filepath="$PROJECT_DIR$/Music_back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music-dao/music-dao.iml" filepath="$PROJECT_DIR$/music-dao/music-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music-entrance/music-entrance.iml" filepath="$PROJECT_DIR$/music-entrance/music-entrance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music-security/music-security.iml" filepath="$PROJECT_DIR$/music-security/music-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music-service/music-service.iml" filepath="$PROJECT_DIR$/music-service/music-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music-utils/music-utils.iml" filepath="$PROJECT_DIR$/music-utils/music-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music-web/music-web.iml" filepath="$PROJECT_DIR$/music-web/music-web.iml" />
+    </modules>
+  </component>
+</project>

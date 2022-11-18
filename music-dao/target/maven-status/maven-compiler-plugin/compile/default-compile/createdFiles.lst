@@ -1,0 +1,2 @@
+com\music\dao\config\MybatisPlusConfig.class
+com\music\dao\mapper\TestMapper.class
